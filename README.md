@@ -33,10 +33,9 @@ For example:
 │   ├── libmy_gd_extension.so
 │   └── my_gd_extension.gdextension
 ├── icon.svg
-├── icon.svg.import
 └── project.godot
 
-2 directories, 6 files
+2 directories, 4 files
 ````
 
 Then reload your Godot project in the editor. If everything works, you should now see `MyNode` in the list of available nodes.
