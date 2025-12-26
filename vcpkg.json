@@ -1,0 +1,9 @@
+
+{
+	"name": "my-gd-extension",
+	"version-string": "1.0.0",
+	"builtin-baseline": "b509a07261b982f35c663bf638aae5f77877d207",
+	"dependencies": [
+		"godot-cpp"
+	]
+}

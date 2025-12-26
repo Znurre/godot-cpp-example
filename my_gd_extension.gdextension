@@ -1,0 +1,8 @@
+[configuration]
+entry_symbol = "gd_extension_init"
+compatibility_minimum = 4.4
+
+[libraries]
+linux.x86_64 = "libmy_gd_extension.so"
+macos = "my_gd_extension.dylib"
+windows.x86_64 = "my_gd_extension.dll"
